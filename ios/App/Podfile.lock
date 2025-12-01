@@ -1,0 +1,98 @@
+PODS:
+  - Capacitor (7.4.3):
+    - CapacitorCordova
+  - CapacitorApp (7.1.0):
+    - Capacitor
+  - CapacitorCommunityBackgroundGeolocation (1.2.26):
+    - Capacitor
+  - CapacitorCordova (7.4.3)
+  - CapacitorGoogleMaps (7.1.1):
+    - Capacitor
+    - Google-Maps-iOS-Utils (~> 5.0)
+    - GoogleMaps (~> 8.4)
+  - CapacitorHaptics (7.0.2):
+    - Capacitor
+  - CapacitorKeyboard (7.0.3):
+    - Capacitor
+  - CapacitorPreferences (7.0.2):
+    - Capacitor
+  - CapacitorStatusBar (7.0.3):
+    - Capacitor
+  - CocoaLumberjack (3.7.4):
+    - CocoaLumberjack/Core (= 3.7.4)
+  - CocoaLumberjack/Core (3.7.4)
+  - Google-Maps-iOS-Utils (5.0.0):
+    - GoogleMaps (~> 8.0)
+  - GoogleMaps (8.4.0):
+    - GoogleMaps/Maps (= 8.4.0)
+  - GoogleMaps/Base (8.4.0)
+  - GoogleMaps/Maps (8.4.0):
+    - GoogleMaps/Base
+  - TransistorsoftCapacitorBackgroundFetch (7.1.0):
+    - Capacitor
+  - TransistorsoftCapacitorBackgroundGeolocation (7.2.2):
+    - Capacitor
+    - CocoaLumberjack (~> 3.7.2)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
+  - "CapacitorCommunityBackgroundGeolocation (from `../../node_modules/@capacitor-community/background-geolocation`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorGoogleMaps (from `../../node_modules/@capacitor/google-maps`)"
+  - "CapacitorHaptics (from `../../node_modules/@capacitor/haptics`)"
+  - "CapacitorKeyboard (from `../../node_modules/@capacitor/keyboard`)"
+  - "CapacitorPreferences (from `../../node_modules/@capacitor/preferences`)"
+  - "CapacitorStatusBar (from `../../node_modules/@capacitor/status-bar`)"
+  - "TransistorsoftCapacitorBackgroundFetch (from `../../node_modules/@transistorsoft/capacitor-background-fetch`)"
+  - "TransistorsoftCapacitorBackgroundGeolocation (from `../../node_modules/@transistorsoft/capacitor-background-geolocation`)"
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - Google-Maps-iOS-Utils
+    - GoogleMaps
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorApp:
+    :path: "../../node_modules/@capacitor/app"
+  CapacitorCommunityBackgroundGeolocation:
+    :path: "../../node_modules/@capacitor-community/background-geolocation"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorGoogleMaps:
+    :path: "../../node_modules/@capacitor/google-maps"
+  CapacitorHaptics:
+    :path: "../../node_modules/@capacitor/haptics"
+  CapacitorKeyboard:
+    :path: "../../node_modules/@capacitor/keyboard"
+  CapacitorPreferences:
+    :path: "../../node_modules/@capacitor/preferences"
+  CapacitorStatusBar:
+    :path: "../../node_modules/@capacitor/status-bar"
+  TransistorsoftCapacitorBackgroundFetch:
+    :path: "../../node_modules/@transistorsoft/capacitor-background-fetch"
+  TransistorsoftCapacitorBackgroundGeolocation:
+    :path: "../../node_modules/@transistorsoft/capacitor-background-geolocation"
+
+SPEC CHECKSUMS:
+  Capacitor: b4741ca7affb32c1b70debd03df92cbf522d8a80
+  CapacitorApp: 846d4b4a1dbb19dd1e9029c08ba6f028aa7be862
+  CapacitorCommunityBackgroundGeolocation: 64561a9463d1decd1b58349a5b999327e24bf9ed
+  CapacitorCordova: 435121e81a2df4d0034f0fb11fcefab5104cfdb5
+  CapacitorGoogleMaps: 045b113f23e3d3f8a871a86ffef7540bab0d17b1
+  CapacitorHaptics: 09d96bcb5a2b74ede8fd039b4cdf58fc43dcacf1
+  CapacitorKeyboard: 3822c3a0c6b58168f96ca562f9534ed095d40860
+  CapacitorPreferences: b583b5deb74e564c35968189d25d32c0fd41200d
+  CapacitorStatusBar: 7d8fcbd6768db014bd721d75e246590b014928e8
+  CocoaLumberjack: 543c79c114dadc3b1aba95641d8738b06b05b646
+  Google-Maps-iOS-Utils: 66d6de12be1ce6d3742a54661e7a79cb317a9321
+  GoogleMaps: 8939898920281c649150e0af74aa291c60f2e77d
+  TransistorsoftCapacitorBackgroundFetch: 54e24b0b6794524bb6b7895a38a770cb0f0c2369
+  TransistorsoftCapacitorBackgroundGeolocation: 64ff5744be341881ae2e9b470bc291ca56402a90
+
+PODFILE CHECKSUM: 7519ed87e40832babbc6120f87cb14fd16168b02
+
+COCOAPODS: 1.15.2
